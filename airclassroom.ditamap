@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>AirClassroom</title>
+ 
+ <keydef keys="product-name"> 
+  <topicmeta>
+   <keywords> 
+   <keyword>AirClassroom</keyword>
+  </keywords> 
+  </topicmeta> 
+ </keydef>
+ 
+ <!-- Declare here any keys you need for the project -->
+ 
+ <topichead navtitle="About">
+  <!-- Place here all topics describing AirClassroom or explaining your documents -->
+  <topicref href="DITA%20Educational/eduintrotopic.dita"/>
+  <topicref href="DITA%20Professional/prointrotopic.dita"/> 
+ </topichead>
+ <topichead navtitle="For instructors">
+  <!-- Place here all topics aimed at an audience of instructors or trainers using AirClassroom -->
+  <topicref href="DITA%20Professional/Adminmactask.dita"/>
+  <topicref href="DITA%20Professional/boardtask.dita"/>
+  <topicref href="DITA%20Professional/lighttask.dita"/>
+  <topicref href="DITA%20Professional/parkingtask.dita"/>
+  <topicref href="DITA%20Professional/roomaccesstask.dita"/>
+  <topicref href="DITA%20Professional/screentask.dita"/>
+ </topichead>
+ <topichead navtitle="For students">
+  <topicref href="DITA%20Educational/eduroamtask.dita"/>
+  <topicref href="DITA%20Educational/Projectortask.dita"/>
+  <topicref href="DITA%20Educational/samsungtask.dita"/>
+  <topicref href="DITA%20Educational/smoketask.dita"/>
+  <topicref href="DITA%20Educational/Usermactask.dita"/>
+  <!-- Place here all topics aimed at an audience of students or trainees using AirClassroom -->  
+ </topichead>
+</map>
